@@ -33,8 +33,7 @@ A full-featured blogging platform built with Django:
 ## 📫 Let's Connect
 
 - 📧 Email: [prathapkumarchopparapu@gmail.com](mailto:prathapkumarchopparapu@gmail.com)
-- 💼 LinkedIn: *(add your LinkedIn link here)*
-- 🌐 Portfolio: *(optional if available)*
+- 💼 LinkedIn: https://www.linkedin.com/in/prathap-kumar-659ba7331
 
 ---
 
